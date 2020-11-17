@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d7f28a1-37c8-4bef-8c34-f44af032d086" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YJGipfBGNlWOgFIkCojUdKZ9V4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/spark/spark-2.4.0-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run With Spark" type="PythonConfigurationType" factoryName="Python">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYSPARK_PYTHON" value="python3" />
+        <env name="PYTHONPATH" value="$SPARK_HOME/python" />
+        <env name="SPARK_HOME" value="$USER_HOME$/spark/spark-2.4.0-bin-hadoop2.7" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7f28a1-37c8-4bef-8c34-f44af032d086" name="Default Changelist" comment="" />
+      <created>1582653413856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582653413856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="53" width="1084" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583426436768">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="53" width="1084" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1583426436768" />
+    <state x="420" y="171" width="515" height="481" key="EnvironmentVariablesDialog" timestamp="1583426419956">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="420" y="171" width="515" height="481" key="EnvironmentVariablesDialog/0.30.1366.738@0.30.1366.738" timestamp="1583426419956" />
+    <state x="466" y="168" width="424" height="487" key="FileChooserDialogImpl" timestamp="1582654828868">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="168" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1582654828868" />
+    <state width="1343" height="173" key="GridCell.Tab.0.bottom" timestamp="1583427053558">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1583427053558" />
+    <state width="1343" height="173" key="GridCell.Tab.0.center" timestamp="1583427053558">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="173" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1583427053558" />
+    <state width="1343" height="173" key="GridCell.Tab.0.left" timestamp="1583427053557">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="173" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1583427053557" />
+    <state width="1343" height="173" key="GridCell.Tab.0.right" timestamp="1583427053558">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1343" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1583427053558" />
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1583426828783">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1583426828783" />
+    <state x="100" y="130" width="1166" height="538" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582653479764">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="100" y="130" width="1166" height="538" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.30.1366.738@0.30.1366.738" timestamp="1582653479764" />
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1583428543049">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1583428543049" />
+  </component>
+</project>
